@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>3/28/2025 - 3:36:06 PM</Generatedon>
+    <Parser>MultiReportParser (4x OpenCoverParser)</Parser>
+    <Assemblies>1</Assemblies>
+    <Classes>11</Classes>
+    <Files>10</Files>
+    <Coveredlines>375</Coveredlines>
+    <Uncoveredlines>163</Uncoveredlines>
+    <Coverablelines>538</Coverablelines>
+    <Totallines>742</Totallines>
+    <Linecoverage>69.7</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>54</Coveredmethods>
+    <Totalmethods>66</Totalmethods>
+    <Methodcoverage>81.8</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly-CSharp" classes="11" coverage="69.7" coveredlines="375" coverablelines="538" totallines="777" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="54" totalmethods="66" methodcoverage="81.8">
+      <Class name="Cell" coverage="100" coveredlines="21" coverablelines="21" totallines="43" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100" />
+      <Class name="CellData" coverage="100" coveredlines="6" coverablelines="6" totallines="35" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="1" methodcoverage="100" />
+      <Class name="CellTests" coverage="100" coveredlines="19" coverablelines="19" totallines="0" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="3" methodcoverage="100" />
+      <Class name="CellView" coverage="85.7" coveredlines="18" coverablelines="21" totallines="43" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="5" methodcoverage="80" />
+      <Class name="GameData" coverage="100" coveredlines="10" coverablelines="10" totallines="35" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="1" methodcoverage="100" />
+      <Class name="GameField" coverage="55.7" coveredlines="111" coverablelines="199" totallines="276" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="10" totalmethods="14" methodcoverage="71.4" />
+      <Class name="GameFieldTests" coverage="11.6" coveredlines="5" coverablelines="43" totallines="0" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="7" methodcoverage="14.2" />
+      <Class name="InputManager" coverage="0" coveredlines="0" coverablelines="22" totallines="31" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="SaveManager" coverage="100" coveredlines="28" coverablelines="28" totallines="48" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+      <Class name="SaveManagerTests" coverage="95.4" coveredlines="21" coverablelines="22" totallines="0" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+      <Class name="Tests" coverage="92.5" coveredlines="136" coverablelines="147" totallines="266" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="21" totalmethods="21" methodcoverage="100" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
